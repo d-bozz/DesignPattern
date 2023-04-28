@@ -1,0 +1,14 @@
+C:\Damian\DesignPattern\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.deps.json
+C:\Damian\DesignPattern\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.runtimeconfig.json
+C:\Damian\DesignPattern\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.dll
+C:\Damian\DesignPattern\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.pdb
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.csproj.AssemblyReference.cache
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.AssemblyInfoInputs.cache
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.AssemblyInfo.cs
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.csproj.CoreCompileInputs.cache
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.dll
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\refint\DesignPatterns.Models.dll
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.pdb
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.genruntimeconfig.cache
+C:\Damian\DesignPattern\DesignPatterns.Models\obj\Debug\net6.0\ref\DesignPatterns.Models.dll

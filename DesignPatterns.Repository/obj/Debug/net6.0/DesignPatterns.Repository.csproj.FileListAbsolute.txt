@@ -1,0 +1,15 @@
+C:\Damian\DesignPattern\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.deps.json
+C:\Damian\DesignPattern\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.dll
+C:\Damian\DesignPattern\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.pdb
+C:\Damian\DesignPattern\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Models.dll
+C:\Damian\DesignPattern\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Models.pdb
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.AssemblyReference.cache
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.AssemblyInfoInputs.cache
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.AssemblyInfo.cs
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.CoreCompileInputs.cache
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.CopyComplete
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.dll
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\refint\DesignPatterns.Repository.dll
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.pdb
+C:\Damian\DesignPattern\DesignPatterns.Repository\obj\Debug\net6.0\ref\DesignPatterns.Repository.dll
