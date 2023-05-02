@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{25608CFF-A1A5-46F9-AA57-BA8C4477463B}"
 EndProject
@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsAsp", "Design
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "Tools\Tools.csproj", "{7591E0C8-25B9-4494-ABC8-F9086659A490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Models", "DesignPatterns.Models\DesignPatterns.Models.csproj", "{290C12AD-3ED2-4C8F-B9A1-D0B3A5E46022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Models", "DesignPatterns.Models\DesignPatterns.Models.csproj", "{290C12AD-3ED2-4C8F-B9A1-D0B3A5E46022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Repository", "DesignPatterns.Repository\DesignPatterns.Repository.csproj", "{90DEE2E0-96B6-4E22-8580-F323C9B10750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Repository", "DesignPatterns.Repository\DesignPatterns.Repository.csproj", "{90DEE2E0-96B6-4E22-8580-F323C9B10750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
